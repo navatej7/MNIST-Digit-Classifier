@@ -2,6 +2,7 @@
 A deep learning model trained on the MNIST dataset to recognize handwritten digits (0–9). This project demonstrates image classification using neural networks in Python, with preprocessing, model training, and evaluation included. Useful as a beginner-friendly introduction to computer vision and deep learning concepts.
 
 
+
 This project implements a handwritten digit recognition application using deep learning and interactive GUI components. The core functionality involves training a convolutional neural network (CNN) on the MNIST dataset and deploying it using a Pygame window that allows users to draw digits with mouse input for real-time prediction.
 
 Features: 
